@@ -1,4 +1,4 @@
-# Hi, I'm [Yasiru Prabod Senevirathna] 👋
+# Hi, I'm Yasiru Prabod Senevirathna 👋
 
 **AI & Data Science undergraduate** at IIT Sri Lanka (Robert Gordon University, UK).
 I build practical AI systems: computer vision, LLM-powered apps, and multilingual NLP for Sinhala/English.
