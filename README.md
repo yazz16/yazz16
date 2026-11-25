@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm [Yasiru Prabod Senevirathna] 👋
 
-<!--
-**yazz16/yazz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Data Science undergraduate** at IIT Sri Lanka (Robert Gordon University, UK).
+I build practical AI systems: computer vision, LLM-powered apps, and multilingual NLP for Sinhala/English.
 
-Here are some ideas to get you started:
+🎯 **Looking for:** a 52-week AI/ML engineering internship
+🔭 **Currently learning:** RAG, AI agents, LLM evaluation & deployment
+📍 Sri Lanka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Highlights
+
+| Project | What it does | Tech |
+|---|---|---|
+| **Safe City Platform** | Violence & weapon detection in video using VideoMAE | PyTorch, Hugging Face |
+| **Sinhala/English Call Analyzer** | Turns call recordings into structured insights | Python, Gemini API |
+| **Multilingual Comment Classifier** | Classifies English/Sinhala/Singlish customer feedback | Python, Gemini API, Pandas |
+
+---
+
+### 🧰 Tech stack
+**AI/ML:** PyTorch · Hugging Face · scikit-learn · Gemini API · Prompt engineering
+**Data:** Python · Pandas · SQL · Streamlit
+**Software:** Java · Git · REST APIs
+
+---
+
+### 📫 Contact
+[LinkedIn](www.linkedin.com/in/yasiru-senevirathna04) · yasirusenevirathna04@gmail.com
