@@ -1,30 +1,37 @@
 # Hi, I'm Yasiru Prabod Senevirathna 👋
 
 **AI & Data Science undergraduate** at IIT Sri Lanka (Robert Gordon University, UK).
-I build practical AI systems: computer vision, LLM-powered apps, and multilingual NLP for Sinhala/English.
+I build practical AI systems: computer vision, machine learning, and NLP.
 
 🎯 **Looking for:** a 52-week AI/ML engineering internship
+
 🔭 **Currently learning:** RAG, AI agents, LLM evaluation & deployment
-📍 Sri Lanka
+
+📍 Colombo, Sri Lanka
 
 ---
 
 ### 🚀 Highlights
 
-| Project | What it does | Tech |
+| Project | My contribution | Tech |
 |---|---|---|
-| **Safe City Platform** | Violence & weapon detection in video using VideoMAE | PyTorch, Hugging Face |
-| **Sinhala/English Call Analyzer** | Turns call recordings into structured insights | Python, Gemini API |
-| **Multilingual Comment Classifier** | Classifies English/Sinhala/Singlish customer feedback | Python, Gemini API, Pandas |
+| **Safe City Platform** | Built violence & weapon detection in video using VideoMAE | PyTorch, Hugging Face |
+| **Tomato Leaf Disease Detection** | Built the feature extraction part for multi-disease detection & severity estimation | Python, Machine Learning |
+| **Telco Customer Churn Prediction** | EDA, Decision Tree, SMOTE and a TensorFlow neural network to predict customer churn | scikit-learn, TensorFlow |
+| **FactSense-AI** *(in progress)* | Fact & passage verification system (final-year project) | Python, NLP |
 
 ---
 
 ### 🧰 Tech stack
-**AI/ML:** PyTorch · Hugging Face · scikit-learn · Gemini API · Prompt engineering
-**Data:** Python · Pandas · SQL · Streamlit
-**Software:** Java · Git · REST APIs
+
+**AI/ML:** PyTorch · TensorFlow · Hugging Face · scikit-learn · Computer Vision · NLP
+
+**Data:** Python · Pandas · Seaborn · SQL
+
+**Software:** Java · Git · OOP · Data Structures
 
 ---
 
 ### 📫 Contact
-[LinkedIn](www.linkedin.com/in/yasiru-senevirathna04) · yasirusenevirathna04@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/yasiru-senevirathna04) · yasirusenevirathna04@gmail.com
